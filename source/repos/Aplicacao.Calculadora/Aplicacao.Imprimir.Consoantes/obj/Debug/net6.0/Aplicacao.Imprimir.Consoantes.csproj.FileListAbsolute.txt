@@ -1,0 +1,15 @@
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\bin\Debug\net6.0\Aplicacao.Imprimir.Consoantes.exe
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\bin\Debug\net6.0\Aplicacao.Imprimir.Consoantes.deps.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\bin\Debug\net6.0\Aplicacao.Imprimir.Consoantes.runtimeconfig.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\bin\Debug\net6.0\Aplicacao.Imprimir.Consoantes.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\bin\Debug\net6.0\Aplicacao.Imprimir.Consoantes.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\refint\Aplicacao.Imprimir.Consoantes.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\Aplicacao.Imprimir.Consoantes.genruntimeconfig.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Imprimir.Consoantes\obj\Debug\net6.0\ref\Aplicacao.Imprimir.Consoantes.dll

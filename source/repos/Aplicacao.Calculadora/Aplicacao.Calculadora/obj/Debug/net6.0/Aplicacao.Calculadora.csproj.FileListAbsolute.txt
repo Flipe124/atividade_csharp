@@ -1,0 +1,15 @@
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\bin\Debug\net6.0\Aplicacao.Calculadora.exe
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\bin\Debug\net6.0\Aplicacao.Calculadora.deps.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\bin\Debug\net6.0\Aplicacao.Calculadora.runtimeconfig.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\bin\Debug\net6.0\Aplicacao.Calculadora.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\bin\Debug\net6.0\Aplicacao.Calculadora.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\refint\Aplicacao.Calculadora.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\Aplicacao.Calculadora.genruntimeconfig.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Calculadora\obj\Debug\net6.0\ref\Aplicacao.Calculadora.dll

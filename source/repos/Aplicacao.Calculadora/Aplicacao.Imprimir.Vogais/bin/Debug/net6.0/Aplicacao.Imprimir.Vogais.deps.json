@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aplicacao.Imprimir.Vogais/1.0.0": {
+        "runtime": {
+          "Aplicacao.Imprimir.Vogais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacao.Imprimir.Vogais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

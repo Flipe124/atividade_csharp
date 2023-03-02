@@ -1,0 +1,15 @@
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\bin\Debug\net6.0\Aplicacao.Vogais.exe
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\bin\Debug\net6.0\Aplicacao.Vogais.deps.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\bin\Debug\net6.0\Aplicacao.Vogais.runtimeconfig.json
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\bin\Debug\net6.0\Aplicacao.Vogais.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\bin\Debug\net6.0\Aplicacao.Vogais.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\refint\Aplicacao.Vogais.dll
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.pdb
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\Aplicacao.Vogais.genruntimeconfig.cache
+C:\Users\thiag\source\repos\Aplicacao.Calculadora\Aplicacao.Vogais\obj\Debug\net6.0\ref\Aplicacao.Vogais.dll
